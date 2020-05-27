@@ -1,7 +1,7 @@
 Radiko Recording Uploader
 =========================
 
-[![Docker Automated buil](https://img.shields.io/docker/automated/atsnngs/radiko-recorder-s3.svg?maxAge=2592000)](https://hub.docker.com/r/atsnngs/radiko-recorder-s3/)
+[![Docker Automated build](https://img.shields.io/docker/automated/atsnngs/radiko-recorder-s3.svg?maxAge=2592000)](https://hub.docker.com/r/atsnngs/radiko-recorder-s3/)
 
 Environment Variables
 ---------------------
