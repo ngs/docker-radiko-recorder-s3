@@ -1,7 +1,7 @@
 Radiko Recording Uploader
 =========================
 
-[![Docker Automated buil](https://img.shields.io/docker/automated/atsnngs/docker-radiko-recorder-s3.svg?maxAge=2592000)](https://hub.docker.com/r/atsnngs/docker-radiko-recorder-s3/)
+[![Docker Automated buil](https://img.shields.io/docker/automated/atsnngs/radiko-recorder-s3.svg?maxAge=2592000)](https://hub.docker.com/r/atsnngs/radiko-recorder-s3/)
 
 Environment Variables
 ---------------------
@@ -23,8 +23,8 @@ Run It
 ------
 
 ```sh
-docker pull atsnngs/docker-radiko-recorder-s3
-docker run --env-file=.envrc atsnngs/docker-radiko-recorder-s3
+docker pull atsnngs/radiko-recorder-s3
+docker run --env-file=.envrc atsnngs/radiko-recorder-s3
 ```
 
 
